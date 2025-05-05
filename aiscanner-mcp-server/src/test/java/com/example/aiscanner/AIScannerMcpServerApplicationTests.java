@@ -6,7 +6,7 @@ import org.springframework.test.context.TestPropertySource;
 
 @SpringBootTest
 @TestPropertySource(properties = {
-		"sapling.ai.api.key=NQT0OS6F50VXOGXQNDH50QZKRM2RB92P"
+		"sapling.ai.api.key="
 })
 class AIScannerMcpServerApplicationTests {
 
